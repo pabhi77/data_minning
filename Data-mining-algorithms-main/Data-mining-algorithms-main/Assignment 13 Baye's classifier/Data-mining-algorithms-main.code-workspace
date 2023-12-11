@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Data-mining-algorithms-main",
+			"path": "../../Data-mining-algorithms-main"
+		},
+		{
+			"name": "Assignment 7 Frequent-itemset",
+			"path": "../Assignment 7 Frequent-itemset"
+		},
+		{
+			"name": "Assignment 13 Baye's classifier",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
